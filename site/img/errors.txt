@@ -1,0 +1,1 @@
+[Wed Aug 12 2020 14:11:44 GMT+0300 (RTZ 2 (зима))] Layer "logo.png": Duplicate file name: logo.png
